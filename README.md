@@ -14,7 +14,7 @@ An interactive iOS app built with SwiftUI that showcases beautiful planet cards 
 
 <p align="center">
   <img src="ParallaxCard/ParallaxCard/AppScreens/Screenshot 2026-02-27 at 15.18.57 1.png" width="250" />
-  <img src="SParallaxCard/ParallaxCard/AppScreens/Screenshot 2026-02-27 at 15.19.35 1.png" width="200" />
+  <img src="ParallaxCard/ParallaxCard/AppScreens/Screenshot 2026-02-27 at 15.19.35 1.png" width="200" />
 </p>
 
 ## 🛠 Technologies
